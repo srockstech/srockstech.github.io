@@ -190,6 +190,10 @@ ul
 
 p
 {
+  font-weight: 300;
+}
+
+#bigPara{
   font-weight: 500;
   font-size: larger;
   padding-left: 30%;
