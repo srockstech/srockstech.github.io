@@ -92,13 +92,38 @@ section
   text-align: center;
 }
 
-h2
+#introduction h2
 {
+  line-height: 80%;
+  margin: auto;
+  margin-bottom: 5%;
   letter-spacing: -2px;
   font-size: 40px;
-  text-align: center;
   font-weight: 700;
-  margin: 0px;
+  /* margin: 0px; */
+  background: #fff;
+  color: #8B2030;
+  border-radius: 8px;
+  width: fit-content;
+  padding: 1.5%;
+  box-shadow: 0px 4px 10px 0px rgba(0,0,0,.4);
+}
+
+#accomplishments h2
+{
+  line-height: 80%;
+  margin: auto;
+  margin-bottom: 5%;
+  letter-spacing: -2px;
+  font-size: 40px;
+  font-weight: 700;
+  /* margin: 0px; */
+  background: #fff;
+  color: #8B2030;
+  border-radius: 8px;
+  width: fit-content;
+  padding: 1.5%;
+  box-shadow: 0px 4px 10px 0px rgba(0,0,0,.4);
 }
 
 #introduction h3
@@ -234,6 +259,7 @@ p
 }
 
 #bigPara{
+  margin-top: 0%;
   letter-spacing: 2;
   font-weight: 500;
   font-size: larger;
