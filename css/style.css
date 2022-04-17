@@ -190,7 +190,10 @@ ul
 
 p
 {
-  font-weight: 300;
+  font-weight: 500;
+  font-size: larger;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 a
