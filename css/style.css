@@ -173,6 +173,26 @@ header
   padding: 1%;
 }
 
+#certifications h2
+{
+  line-height: 80%;
+  margin: auto;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  letter-spacing: -2px;
+  font-size: 40px;
+  font-weight: 700;
+  /* margin: 0px; */
+  background: #fff;
+  color: #8B2030;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #8B2030;
+  border-width: 2px;
+  width: fit-content;
+  padding: 1%;
+}
+
 #introduction h3
 {
   line-height: 0%;
