@@ -200,10 +200,19 @@ header
   font-size: x-large;
 }
 
+#techStack
+{
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #8B2030;
+  border-width: 2px;
+}
+
 #skills h3
 {
   font-weight: bold;
   font-size: xx-large;
+  margin: 0%;
 }
 
 #introduction h4
