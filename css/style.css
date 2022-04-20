@@ -83,17 +83,10 @@ header
   bottom: 2.3%;
 }
 
-#introduction
+#introduction, #projects
 {
-  border-radius: 30px 30px 0px 0px;
-  box-shadow: 0px -15px 30px 0px rgba(70,0,0,.5);
-  padding: 50px;
-  letter-spacing: 1;
-  text-align: center;
-}
-
-#accomplishments
-{
+  color: #fff;
+  background: #8B2030;
   border-radius: 30px 30px 0px 0px;
   box-shadow: 0px -15px 30px 0px rgba(70,0,0,.5);
   padding: 50px;
@@ -110,7 +103,7 @@ header
   text-align: center;
 }
 
-#certifications
+#accomplishments
 {
   border-radius: 30px 30px 0px 0px;
   box-shadow: 0px -25px 30px 0px rgba(0,0,0,.4);
@@ -119,7 +112,7 @@ header
   text-align: center;
 }
 
-#introduction h2, #accomplishments h2
+#introduction h2, #projects h2
 {
   line-height: 80%;
   margin: auto;
@@ -136,7 +129,7 @@ header
   box-shadow: 0px 4px 10px 0px rgba(0,0,0,.4);
 }
 
-#skills h2, #certifications h2
+#skills h2, #accomplishments h2
 {
   line-height: 80%;
   margin: auto;
@@ -156,7 +149,7 @@ header
   padding: 1%;
 }
 
-#introduction h3, #accomplishments h3
+#introduction h3, #projects h3
 {
   line-height: 0%;
   font-weight: 600;
@@ -171,14 +164,14 @@ header
   border-width: 2px;
 }
 
-#skills h3, #certifications h3
+#skills h3, #accomplishments h3
 {
   font-weight: bold;
   font-size: xx-large;
   margin: 0%;
 }
 
-#introduction h4
+#introduction h4, #projects h4
 {
   line-height: 2%;
   margin-bottom: 0%;
@@ -221,12 +214,6 @@ header
   text-align: center;
 }
 
-#introduction
-{
-  color: #fff;
-  background: #8B2030;
-}
-
 #skills
 {
   height: 800;
@@ -255,13 +242,6 @@ header
   margin: 1%;
   padding: 1%;
   box-shadow: 0px 4px 10px 0px rgba(70,0,0,.5);
-}
-
-#accomplishments
-{
-    text-align: center;
-    color: #fff;
-    background: #8B2030;
 }
 
 li
