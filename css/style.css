@@ -94,16 +94,7 @@ header
   text-align: center;
 }
 
-#skills
-{
-  border-radius: 30px 30px 0px 0px;
-  box-shadow: 0px -25px 30px 0px rgba(0,0,0,.4);
-  padding: 50px;
-  letter-spacing: 1;
-  text-align: center;
-}
-
-#accomplishments
+#skills, #accomplishments
 {
   border-radius: 30px 30px 0px 0px;
   box-shadow: 0px -25px 30px 0px rgba(0,0,0,.4);
@@ -272,8 +263,6 @@ footer a, #projects a
 {
     color: #fff;
 }
-
-
 
 footer
 {
